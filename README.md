@@ -1,4 +1,6 @@
 # DeepFPC
+(c) 2022 Ústav přístrojové techniky AV ČR, v. v. i.
+
 This repository provides the implementation of DeepFPC from the following paper:
 
 Model-Informed unsupervised Deep Learning Approach to Frequency and Phase Correction of MRS Signals: [Link to biorxiv](https://www.biorxiv.org/content/10.1101/2022.06.28.497332v1)
