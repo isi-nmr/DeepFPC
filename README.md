@@ -1,5 +1,8 @@
 # DeepFPC
-(c) 2022 Ústav přístrojové techniky AV ČR, v. v. i.
+
+This software was developed by Amir Shamaei amirshamaei@isibrno.cz 
+Copyright (c) 2022 Ústav přístrojové techniky AV ČR, v. v. i
+
 
 This repository provides the implementation of DeepFPC from the following paper:
 
